@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><XML_File>
+<Towns>
+<town>
+<name>Msk</name>
+<id>0</id>
+</town>
+</Towns>
+<Airports>
+<Airport>
+<airportId>1</airportId>
+<locationId>1</locationId>
+<name>Domodedovo</name>
+</Airport>
+<Airport>
+<airportId>1</airportId>
+<locationId>1</locationId>
+<name>NY Airport</name>
+</Airport>
+</Airports>
+</XML_File>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><XML_File>
+<Towns/>
+<Airports>
+<Airport airportId="1">
+<airportId>Domodedovo</airportId>
+<locationId>1</locationId>
+<name>1</name>
+</Airport>
+</Airports>
+</XML_File>
